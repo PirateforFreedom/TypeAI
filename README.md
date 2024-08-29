@@ -37,3 +37,7 @@ a web to instroduce typeai
 
 9.neo4j
 
+# AI+Paper:
+
+10.arxiv-sanity-lite+AI
+
