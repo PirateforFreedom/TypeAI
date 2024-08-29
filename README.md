@@ -33,11 +33,8 @@ a web to instroduce typeai
 
 8.Memgpt
 
-# GraphRAG:
-
-9.neo4j
 
 # AI+Paper:
 
-10.arxiv-sanity-lite+AI
+9.arxiv-sanity-lite+AI
 
