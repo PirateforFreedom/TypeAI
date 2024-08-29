@@ -3,26 +3,37 @@ TypeAI ,make AI tools to user for  everyone
 
 a web to instroduce typeai
 
-Text:
+# Text:
+
 1.pretrain LLM
+
 2.finetune open source LLM lora
 
-Image:
+
+# Image:
+
 3.sd lora
+
 4.confyui
 
-TTS:
+
+# TTS:
+
 5.TorToiSe
 
-Text to Motion:
+# Text to Motion:
+
 6.MMD
 
-Video to Motion:
+# Video to Motion:
+
 7.4Dhuman
 
-Agent:
+# Agent:
+
 8.Memgpt
 
-GraphRAG:
+# GraphRAG:
+
 9.neo4j
 
